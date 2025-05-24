@@ -1,0 +1,237 @@
+{
+  "success": true,
+  "credits_left": 90,
+  "rate_limit_left": 100,
+  "person": {
+    "publicIdentifier": "nilaybose",
+    "linkedInIdentifier": "ACoAAAFLzo4BdZmxEMcLZ3oq80G6GNGG_TgDFJw",
+    "memberIdentifier": "21745294",
+    "linkedInUrl": "https://www.linkedin.com/in/nilaybose",
+    "firstName": "Nilay",
+    "lastName": "Bose",
+    "headline": "Principal Software Architect @ OPEN TEXT TECHNOLOGIES INDIA PRIVATE LIMITED | Computer Software Engineering",
+    "location": "Bengaluru, Karnataka, India",
+    "summary": "20+ years of IT experience spanning all stages of the software development lifecycle, with a strong focus on Middleware Technologies and a passion for innovation. I bring significant hands-on experience in the exciting field of Generative AI, including practical application of Langchain, Llama Index, RAG, vector databases, Vertex API, and TensorFlow. My core technical skills include deep proficiency in Java and Golang, complemented by practical experience in Python and Clojure. As a highly capable Full Stack GCP/ AWS Microservice Architect, I excel in designing, deploying, and managing microservices in production environments (GCP, OCP on AWS) using Jenkins, Ansible, Kubernetes, Spring Boot, and Apache Cassandra. I also possess valuable experience in data modeling (Cassandra), data pipeline automation (Kafka and Spark Streams), and real-time analytics. Furthermore, I bring specialized expertise in US Debit (Pin and Signature) card payment processing, encompassing fee and compliance billing, pricing and network smart routing optimization, and merchant reporting.\n\nForeign Language\nGoethe-Zertifikat A1: Start Deutsch 1 certified - Elementary German Proficiency. \nCompleted the Goethe A2 course from Goethe Institute Bangalore.",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEmt0CsRW0Udw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1515887973383?e=1753315200&v=beta&t=Czj0oG9ul105dOqcvC5rUySvMKklmqCiio5KZHJb2NM",
+    "backgroundUrl": null,
+    "openToWork": false,
+    "premium": true,
+    "showVerificationBadge": false,
+    "creationDate": {
+      "month": 2,
+      "year": 2008
+    },
+    "followerCount": 469,
+    "positions": {
+      "positionsCount": 2,
+      "positionHistory": [
+        {
+          "title": "Principal Software Architect",
+          "companyName": "OPEN TEXT TECHNOLOGIES INDIA PRIVATE LIMITED",
+          "companyLocation": "Bangalore Urban, Karnataka, India",
+          "description": "Skills: Vertex AI · Artificial Intelligence (AI) · Application Architecture · Big Data · Large Language Models (LLM)",
+          "startEndDate": {
+            "start": {
+              "month": 9,
+              "year": 2019
+            },
+            "end": null
+          },
+          "contractType": "Full-time",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=OPEN+TEXT+TECHNOLOGIES+INDIA+PRIVATE+LIMITED"
+        },
+        {
+          "title": "Senior Manager",
+          "companyName": "Cognizant",
+          "companyLocation": "Greater Kolkata Area",
+          "description": "",
+          "startEndDate": {
+            "start": {
+              "month": 9,
+              "year": 2003
+            },
+            "end": {
+              "month": 9,
+              "year": 2019
+            }
+          },
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Cognizant"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 2,
+      "educationHistory": [
+        {
+          "degreeName": "Master’s Degree",
+          "fieldOfStudy": "Computer Software Engineering",
+          "linkedInUrl": "https://www.linkedin.com/company/739903/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHJcHjUCqWVbA/company-logo_400_400/company-logo_400_400/0/1695033146996/birla_institute_of_technology_and_science_pilani_logo?e=1753315200&v=beta&t=wOWbKMvBEFm0XBhyzovVmE4IQWHM0n65RupuUgwrXiY",
+          "schoolName": "Birla Institute of Technology and Science, Pilani",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2014
+            },
+            "end": {
+              "month": 1,
+              "year": 2016
+            }
+          }
+        },
+        {
+          "degreeName": "Bachelor’s Degree",
+          "fieldOfStudy": "Electrical Engineering",
+          "linkedInUrl": "https://www.linkedin.com/company/15113250/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHKtUeQ2nRppw/company-logo_400_400/company-logo_400_400/0/1631334937489?e=1753315200&v=beta&t=CMnQdX__hhwCdFXINsx2sE6x5sqjr6I5RgmJxbES228",
+          "schoolName": "National Institute of Technology Durgapur",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 1999
+            },
+            "end": {
+              "month": 1,
+              "year": 2003
+            }
+          }
+        }
+      ]
+    },
+    "skills": [
+      "Application Architecture",
+      "Large Language Models (LLM)",
+      "Vetex AI",
+      "Google Cloud Platform (GCP)",
+      "AWS",
+      "Deep Learning",
+      "Tensor Flow",
+      "TensorFlow",
+      "Vertex AI",
+      "Artificial Intelligence (AI)",
+      "Agile Methodologies",
+      "Enterprise Architecture",
+      "Requirements Analysis",
+      "Software Development Life Cycle (SDLC)",
+      "Big Data",
+      "Foreign Languages",
+      "Cloud Computing",
+      "Unix",
+      "Scala",
+      " Java 8",
+      "Amazon Web Services (AWS)",
+      "Git",
+      "Linux",
+      "Spring Framework",
+      "Google Kubernetes Engine (GKE)",
+      "German",
+      " Spark",
+      "Splunk",
+      "Apache Kafka",
+      "Kubernetes",
+      "Openshift",
+      "Elasticsearch",
+      "Microservices",
+      "Ansible",
+      "Cassandra",
+      "Go (Programming Language)"
+    ],
+    "languages": [
+      "German"
+    ],
+    "languagesWithProficiency": [
+      {
+        "language": "German",
+        "proficiency": "Elementary proficiency"
+      }
+    ],
+    "recommendations": {
+      "recommendationsCount": 3,
+      "recommendationHistory": [
+        {
+          "caption": "October 11, 2020, John managed Nilay directly",
+          "description": "I've known Nilay for over 10 years and worked with him for 7 or more of those. Just a few of the strengths that come to mind when I think of Nilay are creativity, impeccable logic, complex problem solving, critical thinking, leadership and loyalty. During his tenure as Architect with Cognizant, assigned to First Data account, he lead the creation and development of the most leading edge systems I was responsible for. His commitment to quality product in combination to his commitment to his team members produced the most prolific software engineering I've had the pleasure to witness in my career. ",
+          "authorFullname": "John Lewis",
+          "authorUrl": "https://www.linkedin.com/in/johnwlewisjr"
+        },
+        {
+          "caption": "January 14, 2020, Monojit reported directly to Nilay",
+          "description": "Genuine expert is the phrase that comes to mind when I think about Nilay. I rarely meet such real talents who stand out like Nilay. It's an opportunity to work with Nilay for 7 years in Cognizant and delivered a Global Project of The Year. Any employee and employer would be lucky to have Nilay as a Technical Architect.",
+          "authorFullname": "Monojit Barua",
+          "authorUrl": "https://www.linkedin.com/in/monojit-barua"
+        },
+        {
+          "caption": "December 3, 2019, Sualeh managed Nilay directly",
+          "description": "Nilay is a highly talented, skilled and knowledgeable software engineer. He tackles difficult business problems with ease and speed. He is always looking to learn new technologies, and is keen to face new challenges. Nilay was my first choice to be on my team for new projects.",
+          "authorFullname": "Sualeh Fatehi",
+          "authorUrl": "https://www.linkedin.com/in/sualeh"
+        }
+      ]
+    },
+    "certifications": {
+      "certificationsCount": 8,
+      "certificationHistory": [
+        {
+          "name": "Goethe A2 Course Participation",
+          "organizationName": "Goethe Institut Indien",
+          "organizationUrl": "https://www.linkedin.com/company/79701186/",
+          "issuedDate": "Issued Apr 2023"
+        },
+        {
+          "name": "[PCAP-31-03] PCAP – Certified Associate in Python Programming",
+          "organizationName": "Python Developer",
+          "organizationUrl": "https://www.linkedin.com/company/19180711/",
+          "issuedDate": "Issued Jan 2022"
+        },
+        {
+          "name": "Goethe-Zertifikat A1: Start Deutsch 1",
+          "organizationName": "Goethe Institut Indien",
+          "organizationUrl": "https://www.linkedin.com/company/79701186/",
+          "issuedDate": "Issued Aug 2021"
+        },
+        {
+          "name": "Apache Cassandra 3.x Administrator Associate",
+          "organizationName": "DataStax",
+          "organizationUrl": "https://www.linkedin.com/company/1786002/",
+          "issuedDate": "Issued Jun 2020"
+        },
+        {
+          "name": "Apache Cassandra 3.x Developer Associate",
+          "organizationName": "DataStax",
+          "organizationUrl": "https://www.linkedin.com/company/1786002/",
+          "issuedDate": "Issued May 2020"
+        },
+        {
+          "name": "CKA: Certified Kubernetes Administrator",
+          "organizationName": "The Linux Foundation",
+          "organizationUrl": "https://www.linkedin.com/company/208777/",
+          "issuedDate": "Issued May 2021 · Expired May 2024"
+        },
+        {
+          "name": "CKS: Certified Kubernetes Security Specialist",
+          "organizationName": "The Linux Foundation",
+          "organizationUrl": "https://www.linkedin.com/company/208777/",
+          "issuedDate": "Issued Jul 2021 · Expired Jul 2023"
+        },
+        {
+          "name": "Confluent Certified Developer Apache Kafka",
+          "organizationName": "Confluent",
+          "organizationUrl": "https://www.linkedin.com/company/88873/",
+          "issuedDate": "Issued Aug 2020 · Expired Aug 2022"
+        }
+      ]
+    },
+    "testScores": {
+      "testScoresCount": 0,
+      "testScoreHistory": []
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 0,
+      "volunteeringExperienceHistory": []
+    },
+    "interests": {}
+  },
+  "company": null
+}
