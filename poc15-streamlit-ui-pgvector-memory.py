@@ -7,7 +7,7 @@ import streamlit as st
 from poc14_doc_assistant_pgvector_memory import retrieval_llm
 from typing import Set
 
-# RUN THIS FILE WITH  "streamlit run poc13-streamlit-ui-pgvector.py"
+# RUN THIS FILE WITH  "streamlit run poc15-streamlit-ui-pgvector-memory.py"
 
 
 st.header("Langchain POC")

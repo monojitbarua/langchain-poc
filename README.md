@@ -1,3 +1,15 @@
+- Install packages
+    ```
+        pip install langchain-postgres
+        pip install psycopg2-binary sqlalchemy langchain langchain-community
+        pip install sentence-transformers
+        pip install pypdf
+        pip install faiss-cpu
+        pip install pgvector
+        pip install streamlit
+        pip install streamlit-toggle-switch
+        pip install streamlit-toggle
+    ```
 
 - Setup pgvector for vector store 
 
