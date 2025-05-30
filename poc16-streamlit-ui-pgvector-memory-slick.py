@@ -4,7 +4,8 @@ torch.classes.__path__ = []
 from dotenv import load_dotenv
 import streamlit as st
 from typing import Set
-from poc14_doc_assistant_pgvector_memory import retrieval_llm
+#from poc14_doc_assistant_pgvector_memory import retrieval_llm
+from poc17_doc_assistant_pgvector_memory_ollama import retrieval_llm
 
 load_dotenv()
 st.set_page_config(page_title="Langchain POC", layout="wide")

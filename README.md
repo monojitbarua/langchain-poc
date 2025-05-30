@@ -1,5 +1,8 @@
 - Install packages
     ```
+        pip install langchain_community
+        pip install langchain_ollama
+
         pip install langchain-postgres
         pip install psycopg2-binary sqlalchemy langchain langchain-community
         pip install sentence-transformers
